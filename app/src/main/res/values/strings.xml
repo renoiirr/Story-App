@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">StoryIntermed</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ceritakan, Ungkapkan, dan Abadikan Momen-momen Pentingmu</string>
+    <string name="title_welcome_page">Selamat datang di Story App!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk bercerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Mulai abadikan momenmu.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="email_invalid">Email Tidak Valid</string>
+    <string name="minimal_password">Password minimal 8 karakter</string>
+    <string name="hint_myemail">example@hint.com</string>
+    <string name="min">Min 8 Character</string>
+    <string name="your_name">Your name</string>
+    <string name="description">description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">UPLOAD</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="image">Image</string>
+    <string name="no_photos">No Photos</string>
+    <string name="galeri">Galeri</string>
+
+</resources>
